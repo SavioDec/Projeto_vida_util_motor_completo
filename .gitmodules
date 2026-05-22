@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SavioDec/backend_detector_vida_util_motor
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SavioDec/frontend_detector_vida_util_motor

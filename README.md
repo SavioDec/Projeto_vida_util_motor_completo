@@ -1,4 +1,4 @@
-# D.I.V.I - Detector Industrial de Vibração e Inteligência
+#D.I.V.I - Detector Industrial de Vibração e Inteligência
        2
        3 Este é o repositório principal (Umbrella) que consolida o ecossistema do projeto **D.I.V.I**. O sistema utiliza IoT (ESP32) para monitorar a saúde de motores industriais, integrando telemetria em tempo real,
          persistência local resiliente (SQLite) e análise histórica em nuvem (Firebase).
